@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Levar o carro para inspeção",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "name": "Pagar as despesas da papelaria",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "name": "Comprar ferramentas para a janela",
+      "complete": false
+    }
+  ]
+}
